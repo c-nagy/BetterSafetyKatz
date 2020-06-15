@@ -1,3 +1,7 @@
+Fork for studying Mimikatz loading techniques for AV evasion.
+
+Original ReadMe: 
+
 # BetterSafetyKatz?
 
 This modified fork of SafetyKatz dynamically fetches the latest pre-compiled release of Mimikatz directly from the gentilkiwi GitHub repo, 
